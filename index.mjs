@@ -4,7 +4,7 @@ dotenv.config();
 
 const platforms = [{
     name: 'app.proofofskill.org',
-    url: 'https://ap.proofofskill.org',
+    url: 'https://app.proofofskill.org',
 }, {
     name: 'get.proofofskill.org',
     url: 'https://get.proofofskill.org',
